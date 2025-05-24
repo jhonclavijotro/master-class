@@ -1,5 +1,4 @@
-scikit-learn >= 3.5
-plotly
-pillow
-opencv-python
-streamlit
+Flask
+python-dotenv
+pytest
+# Add SAP connector library here (e.g., pyrfc if SDK is available)
